@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kallel_jawher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jawher kallel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jawher kallel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawher kallel" height="30" width="40" /></a>
-<a href="https://fb.com/jawher kalel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jawher kalel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jawher-kallel-42392a173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawher-kallel-42392a173" height="30" width="40" /></a>
+<a href="https://fb.com/jawher.kallell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jawher.kallell" height="30" width="40" /></a>
 <a href="https://instagram.com/jawher_kallel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jawher_kallel" height="30" width="40" /></a>
 </p>
 
