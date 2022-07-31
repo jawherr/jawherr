@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawherr&label=Profile%20views&color=0e75b6&style=flat" alt="jawherr" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/jawher kallel" target="blank"><img src="https://img.shields.io/twitter/follow/jawher kallel?logo=twitter&style=for-the-badge" alt="jawher kallel" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kallel_jawher" target="blank"><img src="https://img.shields.io/twitter/follow/kallel_jawher?logo=twitter&style=for-the-badge" alt="kallel_jawher" /></a> </p>
 
 - 🔭 I’m currently working on **RecognitionCortex**
 
