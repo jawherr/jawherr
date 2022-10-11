@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **RecognitionCortex**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **BlockChain**
 
 - 💬 Ask me about **Android, Java, Angular**
 
