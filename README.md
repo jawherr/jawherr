@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/twitter/follow/kallel_jawher?logo=twitter&style=social" alt="kallel_jawher" /></a>
 </p>
 
-
 - 🔭 I’m currently working on **RecognitionCortex**
 
 - 🌱 I’m currently learning **BlockChain**
