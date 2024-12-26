@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/jawher-kallel-42392a173/)-->
 
-<h1 align="center">Hi <img src="https://i.ibb.co/sPSJYhB/ezgif-3-d388ed32be.gif"/>, I'm Jawher Kallel</h1>
+<h1 align="center">Hi <img src="wave.gif" height="60px">, I'm Jawher Kallel</h1>
 <h3 align="center">A passionate full stack engineer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
