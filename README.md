@@ -10,15 +10,15 @@
   <img src="https://img.shields.io/twitter/follow/kallel_jawher?logo=twitter&style=social" alt="kallel_jawher" /></a>
 </p>
 
-- 🔭 I’m currently working on **RecognitionCortex**
+<!-- - 🔭 I’m currently working on **RecognitionCortex**-->
 
-- 🌱 I’m currently learning **BlockChain**
+- 🌱 I’m currently learning **Machine learning**
 
 - 💬 Ask me about **Android, Java, Angular**
 
 - 📫 How to reach me **kallel.jawher@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+<!-- - ⚡ Fun fact **I am Funny**-->
 
 <h3 align="left">Connect with me:</h3>
 
