@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/twitter/follow/kallel_jawher?logo=twitter&style=social" alt="kallel_jawher" /></a>
 </p>
 
-<!-- - 🔭 I’m currently working on **RecognitionCortex**-->
+- 🔭 I’m currently working on **PushNotification**
 
 - 🌱 I’m currently learning **Machine learning**
 
@@ -50,5 +50,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jawherr&show_icons=true&locale=en" alt="jawherr" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawherr" alt="jawherr" /></a> 
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jawherr&theme=light&hide_border=true&border_radius=5.3&card_width=900" alt="jawherr"/></p>
+<!--
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jawherr&theme=light&hide_border=true&border_radius=5.3&card_width=900" alt="jawherr"/></p>-->
