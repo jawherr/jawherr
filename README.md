@@ -32,7 +32,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawherr&layout=compact&theme=radical&langs_count=10" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=jawherr&show_icons=true&locale=en&theme=radical&show=prs_merged" alt="jawherr"/>
     <br><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=jawherr&theme=radical&column=5&margin-w=15&margin-h=15" alt="jawherr"/><br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=jawherr&theme=radical&column=3&margin-w=15&margin-h=15" alt="jawherr"/><br><br>
     <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=jawherr&theme=radical&card_width=860" alt="JawherKl"/>
   </p> 
 </details>
