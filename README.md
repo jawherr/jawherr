@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="wave.gif" height="60px">, I'm Jawher</h1>
+<h1 align="center">Hi <img src="wave.gif" height="50px">, I'm Jawher</h1>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jawherr&label=Profile%20views&color=47848c&style=flat" alt="jawherr" />
