@@ -39,10 +39,10 @@
 <details open>
 <summary><h3>🔭 My github stats: </h3></summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawherr&layout=compact&theme=radical&langs_count=10" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=jawherr&show_icons=true&locale=en&theme=radical&show=prs_merged" alt="jawherr"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawherr&layout=compact&theme=tokyonight&langs_count=10" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=jawherr&show_icons=true&locale=en&theme=tokyonight&show=prs_merged" alt="jawherr"/>
     <br><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=jawherr&theme=radical&column=3&margin-w=15&margin-h=15" alt="jawherr"/><br><br>
-    <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=jawherr&theme=radical&card_width=860" alt="JawherKl"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jawherr&theme=tokyonight&column=3&margin-w=15&margin-h=15" alt="jawherr"/><br><br>
+    <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=jawherr&theme=tokyonight&card_width=860" alt="JawherKl"/>
   </p> 
 </details>
