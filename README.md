@@ -51,7 +51,6 @@
 </details>
 <!--
 -Spring boot, Quarkus with Java
--Symfony, Laravel with PHP
 -Flutter and Android Studio
--ML and LLM with jupyter and colab
+-Machine Learning with jupyter or colab
 -->
