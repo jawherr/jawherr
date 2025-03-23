@@ -9,11 +9,153 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **Android, Java, Angular**
+- 💬 Ask me about **Java, Angular, Android, Flutter**
 
 - 📫 How to reach me **kallel.jawher@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+
+<details close>
+<summary><h3>🛠️ Skills and expertise</h3></summary>
+  
+  - **Backend:** Spring boot, Quarkus.
+  - **Frontend:** Flutter, React, Android Studio, HTML.
+  - **Programming Languages:** Java, PHP, JS, TS, Python.
+  - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite.
+  - **Tools:** Git, Docker, K8s, Jenkins, Kafka, Redis, ELK-Stack, Grafana, Prometheus, Hadoop.
+  - **Languages:** English, French, Arabic.
+
+<table align="center">
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/java-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Java
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/js-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />JavaScript
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/ts-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />TypeScript
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/react-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />React
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/python-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+      src="https://skillicons.dev/icons?i=php"
+      width="65"
+      height="65"
+        alt="PHP" />
+      <br />PHP
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=html"
+        width="65"
+        height="65"
+        alt="HTML5" />
+      <br />HTML5
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/sass-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Sass
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=bootstrap"
+        width="65"
+        height="65"
+        alt="bootstrap" />
+        <br />Bootstrap
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=vscode"
+        width="65"
+        height="65"
+        alt="VsCode" />
+      <br />VsCode
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img
+        src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+        width="65"
+        height="65"
+        alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/mysql-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />MySQL
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=postgres"
+        width="65"
+        height="65"
+        alt="PostgreSQL" />
+      <br />PostgreSQL
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://skillicons.dev/icons?i=mongodb"
+        width="65"
+        height="65"
+        alt="MongoDB" />
+      <br />MongoDB
+    </td>
+    <td align="center" width="128">
+      <img
+        src="https://techstack-generator.vercel.app/docker-icon.svg"
+        alt="icon"
+        width="65"
+        height="65" />
+      <br />Docker
+    </td>
+  </tr>
+</table>
+
+  
+</details>
 
 <details close>
 <summary><h3>📫 Connect with me:</h3></summary>
