@@ -214,8 +214,8 @@
 ***
 
 <p align="center">
-  <i>&copy; <a href="https://github.com/jawherr/">jawherr </a> 2017 - Present</i><br>
-  <i>Licensed under <a href="https://github.com/jawherr/jawherr/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
+  <i>&copy; <a href="https://github.com/jawherr/">jawherr </a> 2024 - Present</i><br>
+  <i>Licensed under <a href="https://github.com/jawherr/jawherr/blob/main/LICENSE.txt">GNU Affero General Public License</a></i><br>
   <a href="https://octodex.github.com/original/"><img src="assets/original.png" width="60" height="60" /></a><br>
   <kbd>Thanks for visiting 😉</kbd>
 </p>
