@@ -191,7 +191,7 @@
 </details>
 <details close>
   <summary><h3>📌 Technologies & Projects : </h3></summary>
-  I actively work on various technologies, frameworks, and tools to build scalable and efficient applications. Here are some key areas of expertise and my related repositories: 
+  I actively work on various technologies, frameworks, and tools to build scalable and efficient applications. 
   
   ##### **🚀 Backend Development:**  
   - **Spring Boot & Quarkus** – Building high-performance and scalable microservices.  
@@ -210,3 +210,12 @@
   💡 **Explore my repositories** for projects and future contributions related to these technologies!  
   
 </details>
+
+***
+
+<p align="center">
+  <i>&copy; <a href="https://github.com/jawherr/">jawherr </a> 2017 - Present</i><br>
+  <i>Licensed under <a href="https://github.com/jawherr/jawherr/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
+  <a href="https://octodex.github.com/original/"><img src="assets/original.png" width="60" height="60" /></a><br>
+  <kbd>Thanks for visiting 😉</kbd>
+</p>
