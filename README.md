@@ -158,7 +158,7 @@
 </details>
 
 <details close>
-<summary><h3>📫 Connect with me:</h3></summary>
+<summary><h3>📫 Connect with me</h3></summary>
   <p align="center">
   <a href="https://twitter.com/kallel_jawher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jawher kallel" height="30" width="40"/>
   </a>
@@ -179,7 +179,7 @@
 </details>
 
 <details close>
-<summary><h3>🔭 My github stats: </h3></summary>
+<summary><h3>🔭 My github stats</h3></summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawherr&layout=compact&theme=tokyonight&langs_count=10" alt="JawherKl"/>&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=jawherr&show_icons=true&locale=en&theme=tokyonight&show=prs_merged" alt="jawherr"/>
@@ -190,7 +190,7 @@
   </p> 
 </details>
 <details close>
-  <summary><h3>📌 Technologies & Projects : </h3></summary>
+  <summary><h3>📌 Technologies & Projects</h3></summary>
   I actively work on various technologies, frameworks, and tools to build scalable and efficient applications. 
   
   ##### **🚀 Backend Development:**  
