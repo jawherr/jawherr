@@ -193,17 +193,17 @@
   <summary><h3>📌 Technologies & Projects</h3></summary>
   I actively work on various technologies, frameworks, and tools to build scalable and efficient applications. 
   
-  ##### **🚀 Backend Development:**  
+  #### **🚀 Backend Development:**  
   - **Spring Boot & Quarkus** – Building high-performance and scalable microservices.  
   - **Laravel** – Crafting efficient web applications using PHP.  
   - **BPMN (Business Process Model & Notation)** – Automating workflows and process management.  
   
-  ##### **📱 Mobile & Frontend Development:**  
+  #### **📱 Mobile & Frontend Development:**  
   - **Flutter** – Creating cross-platform mobile applications.  
   - **Android Studio & Kotlin** – Developing native Android applications.  
   - **React** – Building modern and interactive web applications.  
   
-  ##### **🤖 AI & Machine Learning:**  
+  #### **🤖 AI & Machine Learning:**  
   - Implementing machine learning models and AI-driven applications.  
   - Working with Python, TensorFlow, and related frameworks for ML projects.  
   
