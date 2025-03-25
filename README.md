@@ -186,14 +186,27 @@
     <br><br>
     <img src="https://github-profile-trophy.vercel.app/?username=jawherr&theme=tokyonight&column=3&margin-w=15&margin-h=15" alt="jawherr"/><br><br>
     <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=jawherr&theme=tokyonight&card_width=860" alt="jawherr"/><br>
-    <!--
     <a href="https://app.daily.dev/jawherr"><img src="https://api.daily.dev/devcards/v2/TKzf53gTbU3NpBDphcj2A.png?type=wide&r=yj4" width="652" alt="jawher's Dev Card"/></a>
-    -->
   </p> 
 </details>
-
-<!--
--Spring boot, Quarkus with Java
--Flutter and Android Studio
--Machine Learning with jupyter or colab
--->
+<details close>
+  <summary><h3>📌 Technologies & Projects : </h3></summary>
+  I actively work on various technologies, frameworks, and tools to build scalable and efficient applications. Here are some key areas of expertise and my related repositories: 
+  
+  ##### **🚀 Backend Development:**  
+  - **Spring Boot & Quarkus** – Building high-performance and scalable microservices.  
+  - **Laravel** – Crafting efficient web applications using PHP.  
+  - **BPMN (Business Process Model & Notation)** – Automating workflows and process management.  
+  
+  ##### **📱 Mobile & Frontend Development:**  
+  - **Flutter** – Creating cross-platform mobile applications.  
+  - **Android Studio & Kotlin** – Developing native Android applications.  
+  - **React** – Building modern and interactive web applications.  
+  
+  ##### **🤖 AI & Machine Learning:**  
+  - Implementing machine learning models and AI-driven applications.  
+  - Working with Python, TensorFlow, and related frameworks for ML projects.  
+  
+  💡 **Explore my repositories** for projects and future contributions related to these technologies!  
+  
+</details>
