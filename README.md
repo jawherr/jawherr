@@ -201,7 +201,7 @@
   #### **📱 Mobile & Frontend Development:**  
   - **Flutter** – Creating cross-platform mobile applications.  
   - **Android Studio & Kotlin** – Developing native Android applications.  
-  - **React** – Building modern and interactive web applications.  
+  <!-- - **React** – Building modern and interactive web applications. -->
   
   #### **🤖 AI & Machine Learning:**  
   - Implementing machine learning models and AI-driven applications.  
