@@ -195,7 +195,7 @@
   
   #### **🚀 Backend Development:**  
   - **Spring Boot & Quarkus** – Building high-performance and scalable microservices.  
-  - **Laravel** – Crafting efficient web applications using PHP.  
+ <!-- - **Laravel** – Crafting efficient web applications using PHP.  -->
   - **BPMN (Business Process Model & Notation)** – Automating workflows and process management.  
   
   #### **📱 Mobile & Frontend Development:**  
