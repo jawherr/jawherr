@@ -194,7 +194,7 @@
   I actively work on various technologies, frameworks, and tools to build scalable and efficient applications. 
   
   #### **🚀 Backend Development:** (70%)
-  - **Spring Boot & Quarkus** – Building high-performance and scalable microservices.  
+  - **Spring Boot & Quarkus** – Building high-performance monolithic and scalable microservices.  
  <!-- - **Laravel** – Crafting efficient web applications using PHP.  -->
   - **BPMN (Business Process Model & Notation)** – Automating workflows and process management.  
   
