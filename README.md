@@ -5,15 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=jawherr&label=Profile%20views&color=3e706d&style=flat" alt="jawherr" />
 </p>
 
-- 🔭 I’m currently working on **PushNotification**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning ****
 
-- 💬 Ask me about **Java, Angular, Android, Flutter**
+- 💬 Ask me about **Java** or **JS**
 
 - 📫 How to reach me **kallel.jawher@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+<!--  
+- ⚡ Fun fact **I am Funny** -->
 
 <details close>
 <summary><h3>🛠️ Skills and expertise</h3></summary>
@@ -21,9 +21,9 @@
   - **Backend:** Spring boot, Quarkus.
   - **Frontend:** Flutter, React, Android Studio, HTML.
   - **Programming Languages:** Java, PHP, JS, TS, Python.
-  - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase, SQLite.
-  - **Tools:** Git, Docker, K8s, Jenkins, Kafka, Redis, ELK-Stack, Grafana, Prometheus, Hadoop.
-  - **Languages:** English, French, Arabic.
+  - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase.
+<!--  - **Tools:** Git, Docker, K8s, Jenkins, Kafka, Redis, ELK-Stack, Grafana, Prometheus, Hadoop.
+  - **Languages:** English, French, Arabic.-->
 
 <table align="center">
   <tr>
@@ -193,19 +193,19 @@
   <summary><h3>📌 Technologies & Projects</h3></summary>
   I actively work on various technologies, frameworks, and tools to build scalable and efficient applications. 
   
-  #### **🚀 Backend Development:** (70%)
+  #### **🚀 Backend Development:** (80%)
   - **Spring Boot & Quarkus** – Building high-performance monolithic and scalable microservices.  
- <!-- - **Laravel** – Crafting efficient web applications using PHP.  -->
   - **BPMN (Business Process Model & Notation)** – Automating workflows and process management.  
   
-<!--  #### **📱 Mobile & Frontend Development:**  
+  #### **📱 Mobile & Frontend Development:** (20%) 
   - **Flutter** – Creating cross-platform mobile applications.  
-  - **Android Studio & Kotlin** – Developing native Android applications.  
-  - **React** – Building modern and interactive web applications. -->
+  - **React** – Building modern and interactive web applications.
   
-  #### **🤖 AI & Machine Learning:** (30%)
+<!--  #### **🤖 AI & Machine Learning:** (20%)
   - Implementing machine learning models and AI-driven applications.  
-  - Working with Python, TensorFlow, and related frameworks for ML projects.  
+  - Working with Python, TensorFlow, and related frameworks for ML projects.
+  - **Laravel** – Crafting efficient web applications using PHP.
+  - **Android Studio & Kotlin** – Developing native Android applications.-->
   
   💡 **Explore my repositories** for projects and future contributions related to these technologies!  
   
