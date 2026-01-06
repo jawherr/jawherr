@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=jawherr&label=Profile%20views&color=3e706d&style=flat" alt="jawherr" />
 </p>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on *...*
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning Backend & DevOps
 
 - 💬 Ask me about **Java** or **JS**
 
