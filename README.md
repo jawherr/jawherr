@@ -193,19 +193,22 @@
   <summary><h3>📌 Technologies & Projects</h3></summary>
   I actively work on various technologies, frameworks, and tools to build scalable and efficient applications. 
   
-  #### **🚀 Backend Development:** (80%)
+  #### **🚀 Backend Development:** (60%)
   - **Spring Boot & Quarkus** – Building high-performance monolithic and scalable microservices.  
   - **BPMN (Business Process Model & Notation)** – Automating workflows and process management.  
   
-  #### **📱 Mobile & Frontend Development:** (20%) 
-  - **Flutter** – Creating cross-platform mobile applications.  
-  - **React** – Building modern and interactive web applications.
-  
-<!--  #### **🤖 AI & Machine Learning:** (20%)
+  #### **🤖 AI & Machine Learning:** (20%)
   - Implementing machine learning models and AI-driven applications.  
   - Working with Python, TensorFlow, and related frameworks for ML projects.
+
+  #### **📱 Mobile & Frontend Development:** (20%)
+  - **Flutter & Android Studio** – Creating cross-platform mobile applications.  
+  - **React** – Building modern and interactive web applications.
+
+<!--  
   - **Laravel** – Crafting efficient web applications using PHP.
-  - **Android Studio & Kotlin** – Developing native Android applications.-->
+  - **Android Studio & Kotlin** – Developing native Android applications.
+-->
   
   💡 **Explore my repositories** for projects and future contributions related to these technologies!  
   
@@ -214,7 +217,7 @@
 ***
 
 <p align="center">
-  <i>&copy; <a href="https://github.com/jawherr/">jawherr </a> 2024 - Present</i><br>
+  <i>&copy; <a href="https://github.com/jawherr/">jawherr </a> 2017 - Present</i><br>
   <i>Licensed under <a href="https://github.com/jawherr/jawherr/blob/main/LICENSE.txt">GNU Affero General Public License</a></i><br>
   <a href="https://octodex.github.com/original/"><img src="assets/original.png" width="60" height="60" /></a><br>
   <kbd>Thanks for visiting 😉</kbd>
