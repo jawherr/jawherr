@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="assets/wave.gif" height="50px">, I'm Jawher</h1>
-<img align="right" alt="Coding" width="350" src="assets/work.gif">
+<img align="right" alt="Coding" width="350" src="assets/workflow.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jawherr&label=Profile%20views&color=3e706d&style=flat" alt="jawherr" />
