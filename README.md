@@ -12,18 +12,18 @@
 - 💬 Ask me about **Java** or **JS**
 
 - 📫 How to reach me **kallel.jawher@gmail.com**
-<!--  
-- ⚡ Fun fact **I am Funny** -->
 
-<details close>
+- ⚡ Fun fact **I am Funny**
+
+<details open>
 <summary><h3>🛠️ Skills and expertise</h3></summary>
   
   - **Backend:** Spring boot, Quarkus.
   - **Frontend:** Flutter, React, Android Studio, HTML.
   - **Programming Languages:** Java, PHP, JS, TS, Python.
   - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase.
-<!--  - **Tools:** Git, Docker, K8s, Jenkins, Kafka, Redis, ELK-Stack, Grafana, Prometheus, Hadoop.
-  - **Languages:** English, French, Arabic.-->
+  - **Tools:** Git, Docker, K8s, Jenkins, Kafka, Redis, ELK-Stack, Grafana, Prometheus, Camunda.
+  - **Languages:** English, French, Arabic.
 
 <table align="center">
   <tr>
