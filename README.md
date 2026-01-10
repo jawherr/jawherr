@@ -186,9 +186,7 @@
     <br><br>
     <img src="https://nirzak-trophies.vercel.app/?username=jawherr&theme=tokyonight&column=3&margin-w=15&margin-h=15" alt="jawherr"/><br><br>
     <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=jawherr&theme=tokyonight&card_width=860" alt="jawherr"/><br>
-    <!--
-    <a href="https://app.daily.dev/jawherr"><img src="https://api.daily.dev/devcards/v2/TKzf53gTbU3NpBDphcj2A.png?type=wide&r=yj4" width="652" alt="jawher's Dev Card"/></a>
-    -->
+
   </p> 
 </details>
 <details close>
@@ -207,11 +205,6 @@
   - **Flutter & Android Studio** – Creating cross-platform mobile applications.  
   - **React** – Building modern and interactive web applications.
 
-<!--  
-  - **Laravel** – Crafting efficient web applications using PHP.
-  - **Android Studio & Kotlin** – Developing native Android applications.
--->
-  
   💡 **Explore my repositories** for projects and future contributions related to these technologies!  
   
 </details>
