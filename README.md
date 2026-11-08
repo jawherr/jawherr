@@ -29,7 +29,7 @@
   <tr>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/java-icon.svg"
+        src="svg/Java.png"
         alt="icon"
         width="65"
         height="65" />
@@ -37,7 +37,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/js-icon.svg"
+        src="svg/Js.png"
         alt="icon"
         width="65"
         height="65" />
@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/ts-icon.svg"
+        src="svg/ts.png"
         alt="icon"
         width="65"
         height="65" />
@@ -53,7 +53,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/react-icon.svg"
+        src="svg/React.png"
         alt="icon"
         width="65"
         height="65" />
@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/python-icon.svg"
+        src="svg/Python.png"
         alt="icon"
         width="65"
         height="65" />
@@ -87,7 +87,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/sass-icon.svg"
+        src="svg/Sass.png"
         alt="icon"
         width="65"
         height="65" />
@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/mysql-icon.svg"
+        src="svg/Sql.png"
         alt="icon"
         width="65"
         height="65" />
@@ -145,7 +145,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://techstack-generator.vercel.app/docker-icon.svg"
+        src="svg/Docker.png"
         alt="icon"
         width="65"
         height="65" />
