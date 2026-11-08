@@ -29,7 +29,7 @@
   <tr>
     <td align="center" width="128">
       <img
-        src="assets/icon/java.png"
+        src="assets/icons/java.png"
         alt="icon"
         width="65"
         height="65" />
@@ -37,7 +37,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="assets/icon/js.png"
+        src="assets/icons/js.png"
         alt="icon"
         width="65"
         height="65" />
@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="assets/icon/ts.png"
+        src="assets/icons/ts.png"
         alt="icon"
         width="65"
         height="65" />
@@ -53,7 +53,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="assets/icon/react.png"
+        src="assets/icons/react.png"
         alt="icon"
         width="65"
         height="65" />
@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="assets/icon/python.png"
+        src="assets/icons/python.png"
         alt="icon"
         width="65"
         height="65" />
@@ -71,7 +71,7 @@
   <tr>
     <td align="center" width="128">
       <img
-      src="assets/icon/php.png"
+      src="assets/icons/php.png"
       width="65"
       height="65"
         alt="PHP" />
@@ -79,7 +79,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="assets/icon/html.png"
+        src="assets/icons/html.png"
         width="65"
         height="65"
         alt="HTML5" />
@@ -87,7 +87,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="assets/icon/sass.png"
+        src="assets/icons/sass.png"
         alt="icon"
         width="65"
         height="65" />
@@ -95,7 +95,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="assets/icon/bootstrap.png"
+        src="assets/icons/bootstrap.png"
         width="65"
         height="65"
         alt="bootstrap" />
@@ -103,7 +103,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="assets/icon/vscode.png"
+        src="assets/icons/vscode.png"
         width="65"
         height="65"
         alt="VsCode" />
@@ -113,7 +113,7 @@
   <tr>
     <td align="center" width="128">
       <img
-        src="assets/icon/git.png"
+        src="assets/icons/git.png"
         width="65"
         height="65"
         alt="Git" />
@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="assets/icon/sql.png"
+        src="assets/icons/sql.png"
         alt="icon"
         width="65"
         height="65" />
@@ -129,7 +129,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="assets/icon/postgresql.png"
+        src="assets/icons/postgresql.png"
         width="65"
         height="65"
         alt="PostgreSQL" />
@@ -137,7 +137,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="assets/icon/mongodb.png"
+        src="assets/icons/mongodb.png"
         width="65"
         height="65"
         alt="MongoDB" />
@@ -145,7 +145,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="assets/icon/docker.png"
+        src="assets/icons/docker.png"
         alt="icon"
         width="65"
         height="65" />
