@@ -29,7 +29,7 @@
   <tr>
     <td align="center" width="128">
       <img
-        src="svg/Java.png"
+        src="assets/icon/java.png"
         alt="icon"
         width="65"
         height="65" />
@@ -37,7 +37,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="svg/Js.png"
+        src="assets/icon/js.png"
         alt="icon"
         width="65"
         height="65" />
@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="svg/ts.png"
+        src="assets/icon/ts.png"
         alt="icon"
         width="65"
         height="65" />
@@ -53,7 +53,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="svg/React.png"
+        src="assets/icon/react.png"
         alt="icon"
         width="65"
         height="65" />
@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="svg/Python.png"
+        src="assets/icon/python.png"
         alt="icon"
         width="65"
         height="65" />
@@ -71,7 +71,7 @@
   <tr>
     <td align="center" width="128">
       <img
-      src="https://skillicons.dev/icons?i=php"
+      src="assets/icon/php.png"
       width="65"
       height="65"
         alt="PHP" />
@@ -79,7 +79,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=html"
+        src="assets/icon/html.png"
         width="65"
         height="65"
         alt="HTML5" />
@@ -87,7 +87,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="svg/Sass.png"
+        src="assets/icon/sass.png"
         alt="icon"
         width="65"
         height="65" />
@@ -95,7 +95,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=bootstrap"
+        src="assets/icon/bootstrap.png"
         width="65"
         height="65"
         alt="bootstrap" />
@@ -103,7 +103,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=vscode"
+        src="assets/icon/vscode.png"
         width="65"
         height="65"
         alt="VsCode" />
@@ -113,7 +113,7 @@
   <tr>
     <td align="center" width="128">
       <img
-        src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+        src="assets/icon/git.png"
         width="65"
         height="65"
         alt="Git" />
@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="svg/Sql.png"
+        src="assets/icon/sql.png"
         alt="icon"
         width="65"
         height="65" />
@@ -129,7 +129,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=postgres"
+        src="assets/icon/postgresql.png"
         width="65"
         height="65"
         alt="PostgreSQL" />
@@ -137,7 +137,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="https://skillicons.dev/icons?i=mongodb"
+        src="assets/icon/mongodb.png"
         width="65"
         height="65"
         alt="MongoDB" />
@@ -145,7 +145,7 @@
     </td>
     <td align="center" width="128">
       <img
-        src="svg/Docker.png"
+        src="assets/icon/docker.png"
         alt="icon"
         width="65"
         height="65" />
